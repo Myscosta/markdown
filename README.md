@@ -45,3 +45,26 @@ if (valor1 == valor2)
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,bootstrap,mysql,vscode,visualstudio,figma,linkedin,instagram,github&perline=6)
 
 <!-- inserir os badges (selos) no github -->
+
+
+## Continuação...
+
+>Tabelas 
+
+| NOMES  | PROFISSÃO |
+| ------- | -------- |
+| Maria  | Advogada  |
+| Cecilia  | Médica |
+| André | Cantor |
+| Marcos | Professor |
+
+<!-- Para criar uma tabela vc pode usar | para delimitar as margens de uma coluna, e os "-----" para delimitar a base superior da tabela -->
+
+| Data | Descrição | Data | Descrição | Data | Descrição |
+|-------|   :---:  | ----- | ------: | ---- | :----- | 
+| 21/03 | dia de tiradentes | 15/11 | dia da proclamação da replublica | 12/03 | aniversário de casamento | 
+| 25/12 | dia de natal | 20/11 | dia da consciencia negra | 16/03 | niver do maridão
+| 22/11 | meu aniversáario | 01/05 | dia dos trabalhadores | 15/10 | niver da mamis| 
+
+<!--  para fazer a centralização do texto vc pode usar o :---: para CENTRALIZAR :---- para manter a DIREITA  e ----: para manter a ESQUERDA -->
+
